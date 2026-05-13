@@ -1,0 +1,16 @@
+{
+  "name": "mcp-project",
+  "version": "1.0.0",
+  "description": "Claude Code MCP 자동화 프로젝트",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["claude-code", "mcp", "puppeteer", "notion", "kakao"],
+  "author": "pitr1000-blip",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "puppeteer": "^24.43.1"
+  }
+}
